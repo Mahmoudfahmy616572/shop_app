@@ -51,7 +51,7 @@ dependencies:
  
 
 flutter_icons:
-  android: true
+  android: "launcher_icon"
   ios: true
   image_path: "assets/images/ShopLogo.jpg"
   remove_alpha_ios: true
