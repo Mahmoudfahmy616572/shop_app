@@ -30,19 +30,7 @@ class CartPage extends StatelessWidget {
                   const SizedBox(
                     height: 40,
                   ),
-                  Row(
-                    children: [
-                      GestureDetector(
-                        onTap: () {
-                          Navigator.pop(context);
-                        },
-                        child: const Icon(
-                          Icons.close,
-                          color: Colors.black,
-                        ),
-                      ),
-                    ],
-                  ),
+                 
                   Row(
                     children: [
                       Text(
