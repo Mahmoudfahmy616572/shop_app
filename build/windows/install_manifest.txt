@@ -1,0 +1,10 @@
+C:/gitHub/shopApp/shop_app/build/windows/runner/Debug/data/icudtl.dat
+C:/gitHub/shopApp/shop_app/build/windows/runner/Debug/flutter_windows.dll
+C:/gitHub/shopApp/shop_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/gitHub/shopApp/shop_app/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/gitHub/shopApp/shop_app/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/gitHub/shopApp/shop_app/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/gitHub/shopApp/shop_app/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/gitHub/shopApp/shop_app/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/gitHub/shopApp/shop_app/build/windows/runner/Debug/data/flutter_assets/packages/ionicons/assets/fonts/Ionicons.ttf
+C:/gitHub/shopApp/shop_app/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

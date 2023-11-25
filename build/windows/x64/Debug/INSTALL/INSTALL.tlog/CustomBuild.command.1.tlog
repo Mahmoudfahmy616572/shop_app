@@ -1,0 +1,10 @@
+^C:\GITHUB\SHOPAPP\SHOP_APP\BUILD\WINDOWS\CMAKEFILES\1D52AB682FB072FA5757E23791364317\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+^C:\GITHUB\SHOPAPP\SHOP_APP\BUILD\WINDOWS\CMAKEFILES\1D52AB682FB072FA5757E23791364317\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/gitHub/shopApp/shop_app/windows -BC:/gitHub/shopApp/shop_app/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/gitHub/shopApp/shop_app/build/windows/shop_app.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
