@@ -165,8 +165,8 @@ class _ProductByCartState extends State<ProductByCart>
                     const SizedBox(
                       height: 20,
                     ),
-                    Row(
-                      children: const [
+                    const Row(
+                      children: [
                         CategoryBTN(
                           lable: 'Men',
                           buttonClr: Colors.black,
@@ -189,8 +189,8 @@ class _ProductByCartState extends State<ProductByCart>
                     const SizedBox(
                       height: 20,
                     ),
-                    Row(
-                      children: const [
+                    const Row(
+                      children: [
                         CategoryBTN(
                           lable: 'Shoes',
                           buttonClr: Colors.black,
