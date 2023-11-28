@@ -1,10 +1,11 @@
 # shop_app
 
-A new Flutter project.
+New Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is A Flutter online shop app using provider state management. This could be used a e-commerce app.
+This is a Flutter Shopping app with Provider and Hive local storage for android and iOS.
 
 A few resources to get you started if this is your first Flutter project:
 
